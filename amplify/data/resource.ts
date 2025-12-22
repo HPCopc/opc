@@ -1,4 +1,3 @@
-@ -0,0 +1,57 @@
 import { type ClientSchema, a, defineData } from "@aws-amplify/backend";
 
 /*== STEP 1 ===============================================================
