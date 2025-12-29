@@ -12,7 +12,7 @@ Amplify.configure(outputs);
 ReactDOM.createRoot(document.getElementById("root")!).render(
     
   <React.StrictMode>
-    Opportunity Crudes
+    Opportunity Crudes 12/////29
     <Authenticator>
       <App />
     </Authenticator>
