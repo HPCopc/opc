@@ -12,7 +12,8 @@ Amplify.configure(outputs);
 ReactDOM.createRoot(document.getElementById("root")!).render(
     
   <React.StrictMode>
-    Opportunity Crudes 12/////29
+    Opportunity Crudes 01/26 
+    new year...
     <Authenticator>
       <App />
     </Authenticator>
